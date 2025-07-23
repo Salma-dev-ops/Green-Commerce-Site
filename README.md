@@ -40,5 +40,17 @@ A fast, accessible, and sustainability-driven e-commerce web app built with Next
 git clone https://github.com/your-username/green-commerce-site.git
 cd green-commerce-site
 npm install
+npm run dev
+
+---
+
+## Folder Structure
+├── components/
+├── pages/
+├── public/
+├── styles/
+├── utils/
+├── sanity/         # CMS configuration
+├── lib/            # Stripe or Firebase helpers
 
 
