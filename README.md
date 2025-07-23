@@ -44,13 +44,6 @@ npm run dev
 
 ---
 
-## Folder Structure
-├── components/
-├── pages/
-├── public/
-├── styles/
-├── utils/
-├── sanity/         # CMS configuration
-├── lib/            # Stripe or Firebase helpers
+
 
 
