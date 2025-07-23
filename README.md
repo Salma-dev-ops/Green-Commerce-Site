@@ -23,7 +23,16 @@ A fast, accessible, and sustainability-driven e-commerce web app built with Next
 - Green hosting (Vercel, Carbon Neutral)
 - Accessibility compliant UI
 - Transparent checkout and impact tracker
+  
+---
 
+## ✅ Features Roadmap
+ -Product listing & filtering
+ -Stripe checkout integration
+ -Sustainability impact dashboard
+ -CMS-managed content (Sanity)
+ -Multi-language support (coming soon)
+ 
 ---
 
 ## 📸 Screenshots
@@ -42,7 +51,7 @@ cd green-commerce-site
 npm install
 npm run dev
 
----
+
 
 
 
